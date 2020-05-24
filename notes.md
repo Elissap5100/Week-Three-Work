@@ -40,4 +40,28 @@
 
 ## Weekly Tasks
 
-#### 
+#### REGEX
+
+**Introduction**: *A regular expression (also called regex) is a powerful tool for finding and manipulating text. At its simplest, a regular expression is just a way of looking through texts to locate patterns.*
+
+**Some Basic Principles** : *These are tips and tricks I imagine will be important to know for future work*
+    - There are libraries of regular expressions, online.
+    - here is a cheatsheet for regular expressions in Sublime Text: https://jdhao.github.io/2019/02/28/sublime_text_regex_cheat_sheet/
+    - Very Helpful basic commands are easily listed out in this section, refer to this for future projects as weel
+    
+**Letters of the Republic of Texas** : The first task this week I must do! Overall, I found this task very informational and I felt I learned alot of valuable techniques is REGEx, that I know will b beneficial for futer work.
+        1. Downloading the curl command through the anaconda command prompt was no issue
+        2. This next step gave me a few issues, but after scrolling through the discord I discovered it works if I just do the "curl command" in my command prompt rather than anaconda.
+        3. No issues
+        4. No issues
+        5. No issues
+        6. No issues
+        7. No issues
+        8. No issues
+        9. No issues
+        10.No issues
+        11. No issues
+        
+       
+
+    
