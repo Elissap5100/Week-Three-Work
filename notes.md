@@ -52,16 +52,16 @@
 **Letters of the Republic of Texas** : The first task this week I must do! Overall, I found this task very informational and I felt I learned alot of valuable techniques is REGEx, that I know will b beneficial for futer work.
         1. Downloading the curl command through the anaconda command prompt was no issue
         2. This next step gave me a few issues, but after scrolling through the discord I discovered it works if I just do the "curl command" in my command prompt rather than anaconda.
-        3. No issues
-        4. No issues
-        5. No issues
-        6. No issues
-        7. No issues
-        8. No issues
-        9. No issues
-        10.No issues
-        11. No issues
+        3. The following steps were all do-able with no issues thanks to clear instructions!
         
+ #### Open Refine
+ 
+ **Installation** : There were no issues with this first part
+ 
+ **Cleaning and reconciling names** : The steps were easy enough to follow, although I will admit that I was unable to get the numbers for both Senders and Recipients as low as suggested in the instructions. I took the advice that has been constantly given throughout this course, and after 30 minutes I accepted that I had done all the filtering and clustering I could do!
+ 
+ #### Networks
+ 
        
 
     
