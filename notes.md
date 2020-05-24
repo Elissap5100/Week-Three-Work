@@ -36,3 +36,8 @@
         - "As a final point, I should add that I’m aware that my network analysis was made and interpreted with caution. Network visualisations are – for the most part – not accurate representations of data. "
 - "Historians rarely use phrases like ‘abstraction’ and ‘data models’, but these are things we do and make all the time in our research, just in less formal ways and in formats that are less easy to process as data, to run algorithms against, to visualise, to tabulate, and to reproduce."
         - Good to know! It is good to know that not everything needs to be 100% concrete, as long as there is at least some support in the data and a thourough analysis as to how they arrived there. 
+        
+
+## Weekly Tasks
+
+#### 
