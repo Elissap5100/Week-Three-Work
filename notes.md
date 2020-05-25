@@ -62,6 +62,32 @@
  
  #### Networks
  
-       
+**Databasic.io**: I actually have used this before briely, but I am curious to see how it is used in this context.
+
+**UPDATE:** As many others encountered, I seemed to have ran into an issue with databasic.io. After I looked through the discord I learned that many who ran into the same issue ended up using http://hdlab.stanford.edu/palladio-app/#/upload to do this part of this week's work.
+        
+![Issue](https://github.com/Elissap5100/Week-Three-Work/blob/master/IssueA.PNG)
+
+As mentioned, Palladio does not have as many options as the other program to explore the data. Although, it did a good job in my opinion!
+
+![Issue](https://github.com/Elissap5100/Week-Three-Work/blob/master/ExampleA.PNG)
+
+![Issue](https://github.com/Elissap5100/Week-Three-Work/blob/master/ExampleB.PNG)
+
+**Navigating Gephi**: This has been a very frustrating step, as Gephi would not download properly, and when it finally did it wold not run because it could not find "Java 1 or higher". I managed to find some solutions online, but even navigating those instructions I could not seem to fix it. It is all very frustrating...
+    - Here is the link to the forum that delt with this issue: https://github.com/gephi/gephi/issues/1787
+
+![Solution](https://github.com/Elissap5100/Week-Three-Work/blob/master/SolutionP1.PNG)
+
+![Solution](https://github.com/Elissap5100/Week-Three-Work/blob/master/SolutionP2.PNG)
+
+I did as the instructions said and even changed the java code name because it was differently named on my computer, but now when i open the application it doesn't open (at least there is no error code).
+
+Pictures of some of my attempt to do a work around:
+
+![Solution](https://github.com/Elissap5100/Week-Three-Work/blob/master/Attempt1.PNG)
+
+![Solution](https://github.com/Elissap5100/Week-Three-Work/blob/master/Attempt2.PNG)
+
 
     
