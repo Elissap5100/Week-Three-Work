@@ -81,7 +81,7 @@ As mentioned, Palladio does not have as many options as the other program to exp
 
 ![Solution](https://github.com/Elissap5100/Week-Three-Work/blob/master/SolutionP2.PNG)
 
-I did as the instructions said and even changed the java code name because it was differently named on my computer, but now when i open the application it doesn't open (at least there is no error code).
+I did as the instructions said and even changed the java code name because it was differently named on my computer, but now when I open the application it doesn't open (at least there is no error code).
 
 Pictures of some of my attempt to do a work around:
 
@@ -89,5 +89,8 @@ Pictures of some of my attempt to do a work around:
 
 ![Solution](https://github.com/Elissap5100/Week-Three-Work/blob/master/Attempt2.PNG)
 
+**Update:** After all the failed attempts at the work around, I found another person online who said to download the 64 bit version of Java then restart my computer. The program is now opened and slowly loading. It has been stuck at this point for a few minutes now:
 
-    
+![Issue](https://github.com/Elissap5100/Week-Three-Work/blob/master/GephiA.PNG)
+
+
