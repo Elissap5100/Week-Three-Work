@@ -93,4 +93,8 @@ Pictures of some of my attempt to do a work around:
 
 ![Issue](https://github.com/Elissap5100/Week-Three-Work/blob/master/GephiA.PNG)
 
+**Update:** I am still unable to make Gephi work. I learned that the program pausing upon "tarting modules" is a common problem but there does not seem to be an easy fix. I tried almost everything this forum suggested: https://github.com/gephi/gephi/issues/1831, but nothing seems to work. At this point I have made it way past the 30 minute mark of attemting to make this work and I am very frustrated because I genuienly wanted this to work. It is upsetting that I can't even attempt this section as of right now.
+
+This forum lists lots of people not being able to fix the issue still now, but I know it is usable become classmates have completed this week's work: https://github.com/gephi/gephi/issues/2069.
+
 
